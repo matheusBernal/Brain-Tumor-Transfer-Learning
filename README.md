@@ -17,7 +17,7 @@ Requirements:
 - Matplotlib
   
 How to Run:
-1. Clone this repository.
+1. Clone this repository or open on google colab.
 2. Ensure you have the necessary dependencies installed.
 3. Place your dataset in the correct directory structure (`./Train`, `./Val`).
 4. Run the training script to fine-tune the model and evaluate its performance.
